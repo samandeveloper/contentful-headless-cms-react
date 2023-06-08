@@ -25,8 +25,8 @@ const projects = [
     image: "./assets/hacker-news-and-search.png",
   },
   {
-    title: "tenzies game",
-    url: "https://tenzies-app-game-react.netlify.app/",
-    image: "./assets/tenzise-game.png",
+    title: "Grocery List",
+    url: "https://grocery-list-bud-react.netlify.app/",
+    image: "./assets/tgrocery-list-bud.png",
   },
 ];
